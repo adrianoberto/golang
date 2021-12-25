@@ -1,0 +1,4 @@
+go run -> roda o arquivo main
+go mod init modulo -> inicia o módulo de gerenciamento de pacores
+go build -> gera o arquivo binário
+go install -> igual ao go build, mas gera o binário na pasta de instalação do go
